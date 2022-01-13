@@ -8,7 +8,7 @@
 
 ## Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulshamim&theme=react)](https://github.com/NurTasin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulshamim&theme=react)](https://github.com/rakibulshamim/github-readme-stats)
 
 
  <br />
