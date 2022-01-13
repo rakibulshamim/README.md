@@ -1,9 +1,9 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#  <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm Rakibul Hasan Shamim
+## <h1 align="center">I'm Rakibul Hasan Shamim
 <br>
-Contact me: rkblshamim@gmail.com<br>
+ <h3 align="center">Contact me: rkblshamim@gmail.com<br>
 
 
 ## Languages and Tools
