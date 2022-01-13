@@ -1,9 +1,7 @@
 
-#  <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#  <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakibul Hasan Shamim
 
-## <h2 align="center">I'm Rakibul Hasan Shamim
 <br>
- <h4 align="center">Contact me: rkblshamim@gmail.com<br>
 
 
 ## Languages and Tools
@@ -22,18 +20,14 @@
 ![github graph](https://activity-graph.herokuapp.com/graph?username=rakibulshamim&theme=react-dark)
 
 
-
-<p align="center">Wanna Know me More?</p>
-
-<h3 align="center">Connect with me:</h3>
-
-
-<p align="center"> 
-<a href="https://www.linkedin.com/in/rkblshamim/">
-<img src="https://img.shields.io/badge/LinkedIn-Rakibul Hasan Shamim-blue" alt="LinkedIn" /></a> 
-<a href="https://www.facebook.com/rkblshamim/">
-<img src="https://img.shields.io/badge/Facebook-Rakibul Hasan Shamim-blue" alt="Facebook" /></a> 
-
-</p>
-
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=rakibulshamim.rakibulshamim" alt="rakibulshamim :: Visitor's Count" /></p>
+ ## Reach Me
+ 
+<a href="https://www.linkedin.com/in/rkblshamim">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:rkblshamim@gmail.com">
+  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.facebook.com/rkblshamim">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
