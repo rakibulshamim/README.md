@@ -1,10 +1,8 @@
 
-#  <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakibul Hasan Shamim
-<br>
+#  <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakibul Hasan Shamim<br>
  
  <h3 align="center">I want to work as a Software Quality Assurance Engineer with a development company and help in delivering functional and stable products to clients.
  </h3>
- 
  <br>
  
  ## Reach Me
@@ -18,17 +16,17 @@
 <a href="https://www.facebook.com/rkblshamim">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
- 
  <br>
+ 
+ 
  
  
 ## Languages and Tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulshamim&theme=react)](https://github.com/rakibulshamim/github-readme-stats)
-
-
+ 
  <br>
+ 
 
 ## Github Status
 
