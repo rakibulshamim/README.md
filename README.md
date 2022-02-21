@@ -1,7 +1,7 @@
 
 #  <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakibul Hasan Shamim<br>
  
- <h3 align="center">I want to work as a Software Quality Assurance Engineer with a development company and help in delivering functional and stable products to clients.
+ <h3 align="center">I am a fresh graduate and highly motivated to start my career as a full-stack SQA engineer in a software firm or IT enabled company.
  </h3>
  <br>
  
