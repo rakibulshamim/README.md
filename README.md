@@ -6,17 +6,13 @@
  <br>
  
  ## Reach Me
- 
-<a href="https://www.linkedin.com/in/rkblshamim">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:rkblshamim@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.facebook.com/rkblshamim">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
- <br>
+
+<p align="center">
+<p>
+<a href="https://www.linkedin.com/in/rkblshamim" target="blank"><img align="center" src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>  
+<a href="https://www.facebook.com/rkblshamim" target="blank"><img align="center" src="https://www.svgrepo.com/show/404674/facebook-social-media-chat-talk-conversation-internet.svg" alt="Facebook" height="50" width="50" /></a>
+ <a href="mailto:rkblshamim@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/224195/mail-email.svg" alt="Mail" height="50" width="50" /></a>
+</p>
  
  
  
