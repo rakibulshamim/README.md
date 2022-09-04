@@ -1,8 +1,5 @@
-
 #  <h1 align="center">Hello, I'm Rakibul Hasan Shamim<br>
  
- <h3 align="center">I am a fresh graduate and highly motivated to start my career as a full-stack SQA engineer in a software firm or IT enabled company.
- </h3>
  <br>
  
  ## Reach Me
