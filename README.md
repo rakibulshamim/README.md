@@ -1,7 +1,5 @@
 #  <h1 align="center">Hello, I'm Rakibul Hasan Shamim<br>
- 
- <br>
- 
+
  ## Reach Me
 
 <p align="center">
